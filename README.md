@@ -1,2 +1,2 @@
 # Ball-n-Bricks
-School
+projekt na zaliczenie roku z informatyki
